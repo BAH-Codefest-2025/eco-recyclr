@@ -39,7 +39,7 @@ The main GitHub repository contains the following folders:
 - **eco-recyclr**: Node.js-based web application with similar functionality to the mobile app
 - **garbage-dataset**: Dataset used to train the machine learning model
 - **ml-model-training**: Machine learning model training scripts and process documentation
-- **classifier.py**: The trained model script used for inference
+- **classifier_for_booz_allen_4.ipynb**: The trained model script used for inference
 
 ## Installation and Setup
 
