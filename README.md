@@ -64,6 +64,7 @@ python3 main.py
 1. Open the `eco-recyclr-Mobile` folder in Xcode.
 2. Select your device or simulator.
 3. Click **Run** in Xcode to launch the app.
+For more information on running the mobile application read the readme in the eco-recyclr-PythonServer folder.
 
 ### Web Application (Node.js)
 1. Navigate to the `eco-recyclr` directory.
@@ -75,6 +76,7 @@ npm install
 ```sh
 npm start
 ```
+For more information on running the web application read the readme in the eco-recyclr folder.
 
 ## Garbage Classification Model
 ### Overview
