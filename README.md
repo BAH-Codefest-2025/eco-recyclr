@@ -64,6 +64,7 @@ python3 main.py
 1. Open the `eco-recyclr-Mobile` folder in Xcode.
 2. Select your device or simulator.
 3. Click **Run** in Xcode to launch the app.
+
 For more information on running the mobile application read the readme in the eco-recyclr-PythonServer folder.
 
 ### Web Application (Node.js)
