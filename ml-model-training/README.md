@@ -65,4 +65,14 @@ The training runs for 10 epochs and utilizes GPU (CUDA) if available.
 
 Inference
 
-The test.py files shows how to use the input-output file to load the model
+The test.py files shows how to use the input-output file to load the model:
+
+
+1. Give the image path variable the path to your image
+image_path = '/Users/chrisdollo/Downloads/IMG_6402.jpg'
+
+2. then run 
+predicted_label = classify_image(image_path)
+print(f"The predicted label is: {predicted_label}")
+
+3. this will output the label bieng oredicted by the model
